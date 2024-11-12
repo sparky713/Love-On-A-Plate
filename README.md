@@ -29,3 +29,5 @@ Project Manager: Hannah Meng
 
 Client/Creative Director: Yangos Hadjiyannis  
 Lead Faculty/Supervisor: Bill (Di) Zhao
+
+(code is posted in a private repo for copyright purposes)
